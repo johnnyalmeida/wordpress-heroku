@@ -1,1 +1,1 @@
-# wordpress-heroku
+# eds-integrations-base
