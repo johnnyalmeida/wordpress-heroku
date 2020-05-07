@@ -1,1 +1,2 @@
-require( dirname( __FILE__ ) . '/wordpress/index.php' );
+<?php
+  require __DIR__ . '/wordpress/index.php';
